@@ -1,0 +1,15 @@
+{
+  "name": "walletchecker",
+  "version": "1.0.0",
+  "description": "Check user wallet for token holdings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0xRom",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.4.1",
+    "web3": "^1.10.0"
+  }
+}
